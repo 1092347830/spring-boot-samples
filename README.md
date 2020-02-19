@@ -3,3 +3,5 @@
   - 初始化项目
 * spring-boot-sample-web-static
   - 配置静态资源
+* spring-boot-sample-freemarker
+  - 配置freemarker模版框架
