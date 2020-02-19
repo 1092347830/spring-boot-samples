@@ -105,6 +105,5 @@ fabric.properties
 .idea/spring-boot-samples.iml
 .idea/vcs.xml
 .idea
-spring-boot-samples.iml
 
-
+*.iml
