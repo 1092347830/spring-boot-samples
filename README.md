@@ -5,3 +5,5 @@
   - 配置静态资源
 * spring-boot-sample-freemarker
   - 配置freemarker模版框架
+* spring-boot-sample-logback
+    - 配置logback日志框架
