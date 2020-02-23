@@ -7,3 +7,5 @@
   - 配置freemarker模版框架
 * spring-boot-sample-logback
     - 配置logback日志框架
+* spring-boot-sample-aop
+        - 配置AOP切面

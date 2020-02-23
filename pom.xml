@@ -20,6 +20,7 @@
         <module>spring-boot-sample-jsp</module>
         <module>untitled</module>
         <module>spring-boot-sample-logback</module>
+        <module>spring-boot-sample-aop</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
