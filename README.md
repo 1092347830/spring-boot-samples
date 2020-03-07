@@ -11,3 +11,5 @@
   - 配置log4j2日志
 * spring-boot-sample-aop
   - 配置AOP切面
+* spring-boot-sample-data-jdbc
+  - jdbc配置
